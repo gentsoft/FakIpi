@@ -1,0 +1,269 @@
+{
+   "shoes" : {
+        "id_1" : {
+            "vendor":"22976",
+            "gender":"M",
+            "season":"winter",
+            "size":["39","40","41","42","43","44","45"],
+            "price":"175.30",
+            "photo":""
+        },
+        "id_2" : {
+            "vendor":"22971",
+            "gender":"M",
+            "season":"winter",
+            "size":["39","40","41","42","43","44","45"],
+            "price":"199.40",
+            "photo":""
+        },
+        "id_3" : {
+            "vendor":"22978",
+            "gender":"M",
+            "season":"winter",
+            "size":["39","40","41","42","43","44","45"],
+            "price":"194.90",
+            "photo":""
+        },
+        "id_4" : {
+            "vendor":"271429",
+            "gender":"M",
+            "season":"all-season",
+            "size":["40","41","42","43","44","45"],
+            "price":"188.80",
+            "photo":""
+        },
+        "id_5" : {
+            "vendor":"271410",
+            "gender":"M",
+            "season":"all-season",
+            "size":["40","41","42","43","44","45"],
+            "price":"159.99",
+            "photo":""
+        },
+        "id_6" : {
+            "vendor":"052599",
+            "gender":"ChM",
+            "season":"autumn-spring",
+            "size":["27","28","29","30","31"],
+            "price":"59.99",
+            "photo":""
+        },
+        "id_7" : {
+            "vendor":"229776",
+            "gender":"M",
+            "season":"winter",
+            "size":["46","47"],
+            "price":"235.50",
+            "photo":""
+        },
+        "id_8" : {
+            "vendor":"48125",
+            "gender":"M",
+            "season":"all-season",
+            "size":["39","40","41","42","43","44","45","46"],
+            "price":"42.10",
+            "photo":""
+        },
+        "id_9" : {
+            "vendor":"271429",
+            "gender":"M",
+            "season":"all-season",
+            "size":["40","41","42","43","44","45"],
+            "price":"188.90",
+            "photo":""
+        },
+        "id_10" : {
+            "vendor":"827293",
+            "gender":"M",
+            "season":"all-season",
+            "size":["40","41","42","43","44","45"],
+            "price":"101.20",
+            "photo":""
+        },
+        "id_11" : {
+            "vendor":"12773",
+            "gender":"W",
+            "season":"",
+            "size":["37","38","39","40","41"],
+            "price":"192.30",
+            "photo":""
+        },
+        "id_12" : {
+            "vendor":"32142",
+            "gender":"W",
+            "season":"autumn-spring",
+            "size":["42"],
+            "price":"162.80",
+            "photo":""
+        },
+        "id_13" : {
+            "vendor":"19737",
+            "gender":"W",
+            "season":"winter",
+            "size":["36","37","38","39","40"],
+            "price":"271.40",
+            "photo":""
+        },
+        "id_14" : {
+            "vendor":"163931",
+            "gender":"W",
+            "season":"winter",
+            "size":["36","37","38","39","40","41"],
+            "price":"212.70",
+            "photo":""
+        },
+        "id_15" : {
+            "vendor":"141600",
+            "gender":"W",
+            "season":"summer",
+            "size":["36","37","38","39","40","41"],
+            "price":"136.90",
+            "photo":""
+        },
+        "id_16" : {
+            "vendor":"12770",
+            "gender":"W",
+            "season":"winter",
+            "size":["36","37","38","39","40","41"],
+            "price":"172.20",
+            "photo":""
+        },
+        "id_17" : {
+            "vendor":"12757",
+            "gender":"W",
+            "season":"autumn-spring",
+            "size":["36","37","38","39","40","41"],
+            "price":"212.10",
+            "photo":""
+        },
+        "id_18" : {
+            "vendor":"12752",
+            "gender":"W",
+            "season":"autumn-spring",
+            "size":["36","37","38","39","40"],
+            "price":"208.20",
+            "photo":""
+        },
+        "id_19" : {
+            "vendor":"131725",
+            "gender":"W",
+            "season":"all-season",
+            "size":["36","37","38","39","40","41"],
+            "price":"158.70",
+            "photo":""
+        },
+        "id_20" : {
+            "vendor":"16401",
+            "gender":"W",
+            "season":"winter",
+            "size":["36","37","38","39","40","41"],
+            "price":"212.80",
+            "photo":""
+        },
+        "id_21" : {
+            "vendor":"131754",
+            "gender":"W",
+            "season":"all-season",
+            "size":["36","37","38","39","40","41"],
+            "price":"172.30",
+            "photo":""
+        },
+        "id_22" : {
+            "vendor":"19732",
+            "gender":"W",
+            "season":"winter",
+            "size":["36","37","38","39","40","41"],
+            "price":"246.20",
+            "photo":""
+        },
+        "id_23" : {
+            "vendor":"12760",
+            "gender":"W",
+            "season":"autumn-spring",
+            "size":["35","36","37","38","39","40","41"],
+            "price":"236.40",
+            "photo":""
+        },
+        "id_24" : {
+            "vendor":"38341",
+            "gender":"W",
+            "season":"all-season",
+            "size":["42"],
+            "price":"63.00",
+            "photo":""
+        },
+        "id_25" : {
+            "vendor":"062623",
+            "gender":"ChW",
+            "season":"winter",
+            "size":["32","33","34","35","36","37"],
+            "price":"154.10",
+            "photo":""
+        },
+        "id_26" : {
+            "vendor":"052609",
+            "gender":"ChW",
+            "season":"autumn-spring",
+            "size":["27","28","29","30","31"],
+            "price":"134.50",
+            "photo":""
+        },
+        "id_27" : {
+            "vendor":"06688",
+            "gender":"ChW",
+            "season":"winter",
+            "size":["32","33","34","35","36","37"],
+            "price":"194.90",
+            "photo":""
+        },
+        "id_28" : {
+            "vendor":"052605",
+            "gender":"ChW",
+            "season":"winter",
+            "size":["27","28","29","30","31"],
+            "price":"136.60",
+            "photo":""
+        },
+        "id_29" : {
+            "vendor":"8053012",
+            "gender":"ChM",
+            "season":"all-season",
+            "size":["27","28","29","30","31"],
+            "price":"62.30",
+            "photo":""
+        },
+        "id_30" : {
+            "vendor":"62210",
+            "gender":"ChM",
+            "season":"autumn-spring",
+            "size":["36","37"],
+            "price":"131.10",
+            "photo":""
+        },
+        "id_31" : {
+            "vendor":"062589",
+            "gender":"ChM",
+            "season":"autumn-spring",
+            "size":["35","36","37"],
+            "price":"140.80",
+            "photo":""
+        },
+        "id_32" : {
+            "vendor":"052604",
+            "gender":"ChM",
+            "season":"autumn-spring",
+            "size":["27","28","29","30","31"],
+            "price":"99.99",
+            "photo":""
+        },
+        "id_33" : {
+            "vendor":"8053001",
+            "gender":"ChM",
+            "season":"all-season",
+            "size":["27","28","29","30","31"],
+            "price":"74.90",
+            "photo":""
+        }
+   },
+   "else":"null"
+}
