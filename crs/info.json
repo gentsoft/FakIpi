@@ -1,6 +1,6 @@
 {
    "shoes" : {
-        "id_1" : {
+        "1" : {
             "vendor":"22976",
             "gender":"M",
             "season":"winter",
@@ -8,7 +8,7 @@
             "price":"175.30",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_1.jpg"
         },
-        "id_2" : {
+        "2" : {
             "vendor":"22971",
             "gender":"M",
             "season":"winter",
@@ -16,7 +16,7 @@
             "price":"199.40",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_2.jpg"
         },
-        "id_3" : {
+        "3" : {
             "vendor":"22978",
             "gender":"M",
             "season":"winter",
@@ -24,7 +24,7 @@
             "price":"194.90",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_3.jpg"
         },
-        "id_4" : {
+        "4" : {
             "vendor":"271429",
             "gender":"M",
             "season":"all-season",
@@ -32,7 +32,7 @@
             "price":"188.80",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_4.jpg"
         },
-        "id_5" : {
+        "5" : {
             "vendor":"271410",
             "gender":"M",
             "season":"all-season",
@@ -40,7 +40,7 @@
             "price":"159.99",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_5.jpg"
         },
-        "id_6" : {
+        "6" : {
             "vendor":"052599",
             "gender":"ChM",
             "season":"autumn-spring",
@@ -48,7 +48,7 @@
             "price":"59.99",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_6.jpg"
         },
-        "id_7" : {
+        "7" : {
             "vendor":"229776",
             "gender":"M",
             "season":"winter",
@@ -56,7 +56,7 @@
             "price":"235.50",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_7.jpg"
         },
-        "id_8" : {
+        "8" : {
             "vendor":"48125",
             "gender":"M",
             "season":"all-season",
@@ -64,7 +64,7 @@
             "price":"42.10",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_8.jpg"
         },
-        "id_9" : {
+        "9" : {
             "vendor":"271429",
             "gender":"M",
             "season":"all-season",
@@ -72,7 +72,7 @@
             "price":"188.90",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_9.jpg"
         },
-        "id_10" : {
+        "10" : {
             "vendor":"827293",
             "gender":"M",
             "season":"all-season",
@@ -80,7 +80,7 @@
             "price":"101.20",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_10.jpg"
         },
-        "id_11" : {
+        "11" : {
             "vendor":"12773",
             "gender":"W",
             "season":"",
@@ -88,7 +88,7 @@
             "price":"192.30",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_11.jpg"
         },
-        "id_12" : {
+        "12" : {
             "vendor":"32142",
             "gender":"W",
             "season":"autumn-spring",
@@ -96,7 +96,7 @@
             "price":"162.80",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_12.jpg"
         },
-        "id_13" : {
+        "13" : {
             "vendor":"19737",
             "gender":"W",
             "season":"winter",
@@ -104,7 +104,7 @@
             "price":"271.40",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_13.jpg"
         },
-        "id_14" : {
+        "14" : {
             "vendor":"163931",
             "gender":"W",
             "season":"winter",
@@ -112,7 +112,7 @@
             "price":"212.70",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_14.jpg"
         },
-        "id_15" : {
+        "15" : {
             "vendor":"141600",
             "gender":"W",
             "season":"summer",
@@ -120,7 +120,7 @@
             "price":"136.90",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_15.jpg"
         },
-        "id_16" : {
+        "16" : {
             "vendor":"12770",
             "gender":"W",
             "season":"winter",
@@ -128,7 +128,7 @@
             "price":"172.20",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_16.jpg"
         },
-        "id_17" : {
+        "17" : {
             "vendor":"12757",
             "gender":"W",
             "season":"autumn-spring",
@@ -136,7 +136,7 @@
             "price":"212.10",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_17.jpg"
         },
-        "id_18" : {
+        "18" : {
             "vendor":"12752",
             "gender":"W",
             "season":"autumn-spring",
@@ -144,7 +144,7 @@
             "price":"208.20",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_18.jpg"
         },
-        "id_19" : {
+        "19" : {
             "vendor":"131725",
             "gender":"W",
             "season":"all-season",
@@ -152,7 +152,7 @@
             "price":"158.70",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_19.jpg"
         },
-        "id_20" : {
+        "20" : {
             "vendor":"16401",
             "gender":"W",
             "season":"winter",
@@ -160,7 +160,7 @@
             "price":"212.80",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_20.jpg"
         },
-        "id_21" : {
+        "21" : {
             "vendor":"131754",
             "gender":"W",
             "season":"all-season",
@@ -168,7 +168,7 @@
             "price":"172.30",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_21.jpg"
         },
-        "id_22" : {
+        "22" : {
             "vendor":"19732",
             "gender":"W",
             "season":"winter",
@@ -176,7 +176,7 @@
             "price":"246.20",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_22.jpg"
         },
-        "id_23" : {
+        "23" : {
             "vendor":"12760",
             "gender":"W",
             "season":"autumn-spring",
@@ -184,7 +184,7 @@
             "price":"236.40",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_23.jpg"
         },
-        "id_24" : {
+        "24" : {
             "vendor":"38341",
             "gender":"W",
             "season":"all-season",
@@ -192,7 +192,7 @@
             "price":"63.00",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_24.jpg"
         },
-        "id_25" : {
+        "25" : {
             "vendor":"062623",
             "gender":"ChW",
             "season":"winter",
@@ -200,7 +200,7 @@
             "price":"154.10",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_25.jpg"
         },
-        "id_26" : {
+        "26" : {
             "vendor":"052609",
             "gender":"ChW",
             "season":"autumn-spring",
@@ -208,7 +208,7 @@
             "price":"134.50",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_26.jpg"
         },
-        "id_27" : {
+        "27" : {
             "vendor":"06688",
             "gender":"ChW",
             "season":"winter",
@@ -216,7 +216,7 @@
             "price":"194.90",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_27.jpg"
         },
-        "id_28" : {
+        "28" : {
             "vendor":"052605",
             "gender":"ChW",
             "season":"winter",
@@ -224,7 +224,7 @@
             "price":"136.60",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_28.jpg"
         },
-        "id_29" : {
+        "29" : {
             "vendor":"8053012",
             "gender":"ChM",
             "season":"all-season",
@@ -232,7 +232,7 @@
             "price":"62.30",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_29.jpg"
         },
-        "id_30" : {
+        "30" : {
             "vendor":"62210",
             "gender":"ChM",
             "season":"autumn-spring",
@@ -240,7 +240,7 @@
             "price":"131.10",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_30.jpg"
         },
-        "id_31" : {
+        "31" : {
             "vendor":"062589",
             "gender":"ChM",
             "season":"autumn-spring",
@@ -248,7 +248,7 @@
             "price":"140.80",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_31.jpg"
         },
-        "id_32" : {
+        "32" : {
             "vendor":"052604",
             "gender":"ChM",
             "season":"autumn-spring",
@@ -256,7 +256,7 @@
             "price":"99.99",
             "photo":"https://gentsoft.github.io/FakIpi/img/img_32.jpg"
         },
-        "id_33" : {
+        "33" : {
             "vendor":"8053001",
             "gender":"ChM",
             "season":"all-season",
