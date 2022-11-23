@@ -87,8 +87,8 @@
             "season":"all-season",
             "size":["40","41","42","43","44","45"],
             "price":"101.20",
-            "poto":"https://gentsoft.github.io/FakIpi/img/img_10.jpg",
-            "potoMini":"https://gentsoft.github.io/FakIpi/img/mini_img_10.jpg"
+            "photo":"https://gentsoft.github.io/FakIpi/img/img_10.jpg",
+            "photoMini":"https://gentsoft.github.io/FakIpi/img/mini_img_10.jpg"
         },
         "11" : {
             "vendor":"12773",
